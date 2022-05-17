@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jax stories</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Jax stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 May 2022 23:27:55 +0700</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://example.com/tags/blog/</link>
+      <pubDate>Mon, 16 May 2022 23:27:55 +0700</pubDate>
+      
+      <guid>https://example.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scale</title>
+      <link>https://example.com/tags/scale/</link>
+      <pubDate>Mon, 16 May 2022 23:27:55 +0700</pubDate>
+      
+      <guid>https://example.com/tags/scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automatic-control</title>
+      <link>https://example.com/tags/automatic-control/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/automatic-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>farm</title>
+      <link>https://example.com/tags/farm/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/farm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tour booking</title>
+      <link>https://example.com/tags/tour-booking/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/tour-booking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homepage</title>
+      <link>https://example.com/tags/homepage/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/homepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>real estate</title>
+      <link>https://example.com/tags/real-estate/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/real-estate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sass</title>
+      <link>https://example.com/tags/sass/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/sass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>run</title>
+      <link>https://example.com/tags/run/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/run/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tracking</title>
+      <link>https://example.com/tags/tracking/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://example.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

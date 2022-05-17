@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jax stories</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Jax stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 May 2022 23:27:55 +0700</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scalable blog design system</title>
+      <link>https://example.com/post/designsystem/</link>
+      <pubDate>Mon, 16 May 2022 23:27:55 +0700</pubDate>
+      
+      <guid>https://example.com/post/designsystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 16 May 2022 11:22:42 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>I&amp;rsquo;m currently a student of Ho Chi Minh city of Technology university. Having strong understanding of many concepts in computer science, and specially, experiences on developing web application.
+I&amp;rsquo;m now working as a Quality Assurance Engineer at ZaloPay, challenging myself to find opportunities in my job.
+1. My recent project Below are some projects that I worked on in learning subjects at the university. Also, there are some my individual project as my interest.</description>
+    </item>
+    
+    <item>
+      <title>Become VNG Tech Fresher</title>
+      <link>https://example.com/zone/2/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/zone/2/</guid>
+      <description>Become ZaloPay Tech Fresher As a third year student, I have to intern at specific tech company. And I chose VNG to start my first career.</description>
+    </item>
+    
+    <item>
+      <title>AEFARM</title>
+      <link>https://example.com/post/aefarm/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/aefarm/</guid>
+      <description>1. About The Project This web have been created to contribute in the agriculture sector a more automatic way of managing devices remotely by using IOT technologiy concepts.
+Some basic features included in this website for customer: login, add/edit/remove devices of their farm, see statistics, automatic control device .
+What I intergrate in this project?
+ Adafruit api to connect with gateway IOT which communicate with various of sensors (through pub/sub protocol) used to serve particular customer demands.</description>
+    </item>
+    
+    <item>
+      <title>Scholarship</title>
+      <link>https://example.com/zone/3/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/zone/3/</guid>
+      <description>My first scholarship At my first period of being a student. I crave so much this scholarchip and finally I can get it.</description>
+    </item>
+    
+    <item>
+      <title>Natour</title>
+      <link>https://example.com/post/natour/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/natour/</guid>
+      <description>1. About The Project This is an application for a tour operator business.
+Some basic features included in this app for customer: booking tour, payment, modifying individual information, displaying specific tour&amp;rsquo; stopovers which is in proximity to user address.
+Some security methods for webapp development is also implemented in this app to prevent some types of attack such as SQL Injection Attack, Cross-Site Scripting (XSS), Denial of Service (DoS), parameter polution, brute force attack, compromised database.</description>
+    </item>
+    
+    <item>
+      <title>Nexter</title>
+      <link>https://example.com/post/nexter/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/nexter/</guid>
+      <description>1. About The Project This is a homepage for an app which is about a real estate business. I made this project while learning CSS Grid as taught by Jonas Schmedtmann on Udemy.
+2. Built With What I used in this project:
+ HTML/CSS, Vanila Javascript. Sass processor.  3. Deploy Link: https://narutosimaha.github.io/nexter-project/</description>
+    </item>
+    
+    <item>
+      <title>Pass in university</title>
+      <link>https://example.com/zone/1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/zone/1/</guid>
+      <description>I pass in my desired university I have been learning so hard to be able to pass the university entrance exam and learn at Ho Chi Minh city of Technology University.</description>
+    </item>
+    
+    <item>
+      <title>Mapty 🏃</title>
+      <link>https://example.com/post/mapty/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/mapty/</guid>
+      <description>😎 1. About The Project This is a mini app used to record your jogging or cycling activities.
+2. How to use ? It is easy to use this app, you just simply click a random place where you want to record your activity on the map then an input form will be displayed, you fill it with some necessary informations and done. The app should now record this activity with your filled-in information, this record and any other records will be kept even if you reload the page.</description>
+    </item>
+    
+    <item>
+      <title>A gallery</title>
+      <link>https://example.com/gallery/a/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/gallery/a/</guid>
+      <description> /img/index.png    /img/list.png    /img/single.png    /img/zone.png    /img/about.png   </description>
+    </item>
+    
+  </channel>
+</rss>

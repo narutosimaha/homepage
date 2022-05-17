@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jax stories</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on Jax stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 May 2022 23:27:55 +0700</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scalable blog design system</title>
+      <link>https://example.com/post/designsystem/</link>
+      <pubDate>Mon, 16 May 2022 23:27:55 +0700</pubDate>
+      
+      <guid>https://example.com/post/designsystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AEFARM</title>
+      <link>https://example.com/post/aefarm/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/aefarm/</guid>
+      <description>1. About The Project This web have been created to contribute in the agriculture sector a more automatic way of managing devices remotely by using IOT technologiy concepts.
+Some basic features included in this website for customer: login, add/edit/remove devices of their farm, see statistics, automatic control device .
+What I intergrate in this project?
+ Adafruit api to connect with gateway IOT which communicate with various of sensors (through pub/sub protocol) used to serve particular customer demands.</description>
+    </item>
+    
+    <item>
+      <title>Natour</title>
+      <link>https://example.com/post/natour/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/natour/</guid>
+      <description>1. About The Project This is an application for a tour operator business.
+Some basic features included in this app for customer: booking tour, payment, modifying individual information, displaying specific tour&amp;rsquo; stopovers which is in proximity to user address.
+Some security methods for webapp development is also implemented in this app to prevent some types of attack such as SQL Injection Attack, Cross-Site Scripting (XSS), Denial of Service (DoS), parameter polution, brute force attack, compromised database.</description>
+    </item>
+    
+    <item>
+      <title>Nexter</title>
+      <link>https://example.com/post/nexter/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/nexter/</guid>
+      <description>1. About The Project This is a homepage for an app which is about a real estate business. I made this project while learning CSS Grid as taught by Jonas Schmedtmann on Udemy.
+2. Built With What I used in this project:
+ HTML/CSS, Vanila Javascript. Sass processor.  3. Deploy Link: https://narutosimaha.github.io/nexter-project/</description>
+    </item>
+    
+    <item>
+      <title>Mapty 🏃</title>
+      <link>https://example.com/post/mapty/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/mapty/</guid>
+      <description>😎 1. About The Project This is a mini app used to record your jogging or cycling activities.
+2. How to use ? It is easy to use this app, you just simply click a random place where you want to record your activity on the map then an input form will be displayed, you fill it with some necessary informations and done. The app should now record this activity with your filled-in information, this record and any other records will be kept even if you reload the page.</description>
+    </item>
+    
+  </channel>
+</rss>

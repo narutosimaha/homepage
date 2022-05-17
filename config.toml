@@ -1,0 +1,76 @@
+baseURL = "https://example.com"
+title = "Jax stories"
+theme = "erblog"
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[params]
+    author = "Vu Tran (Jax)"
+    description= "Software Engineer"
+    badge = "orange"
+    quote = "red"
+    notice = "Want to know more about me. <a href='/zone'>---> Click!</a>"
+    notice_color = "red"
+    index_posts_num = 5
+    google_search = true
+    # logo = "//blog.ertuil.top/avater.png"
+    bio = """
+    <p> I'm a tech wanderer who is always curious about various aspects of computer 
+    science.  This blog is just about intriguing things which I find it funny when dealing with</p>
+    <br />
+    <p style="font-size:16px; color:#494762;">	&quot;Tell me and I forget, teach me and I may remember, involve me and I learn.&quot; – Benjamin Franklin</p>
+    """
+    # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+    portrait= "/self/vu.jpg"
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+# [[menu.main]]
+#     identifier = "zone"
+#     name = "Zone"
+#     url = "/zone/"
+#     weight = 10
+
+[[menu.footer]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = 1
+
+[[menu.footer]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[[menu.icon]]
+    url = "vtl@vng.com.vn"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/narutosimaha"
+    name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "#"
+    name = "twitter"
+    weight = 1
+
+[[menu.icon]]
+    url = "#"
+    name = "instagram"
+    weight = 1

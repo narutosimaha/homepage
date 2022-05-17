@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tracking on Jax stories</title>
+    <link>https://example.com/tags/tracking/</link>
+    <description>Recent content in tracking on Jax stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapty 🏃</title>
+      <link>https://example.com/post/mapty/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/mapty/</guid>
+      <description>😎 1. About The Project This is a mini app used to record your jogging or cycling activities.
+2. How to use ? It is easy to use this app, you just simply click a random place where you want to record your activity on the map then an input form will be displayed, you fill it with some necessary informations and done. The app should now record this activity with your filled-in information, this record and any other records will be kept even if you reload the page.</description>
+    </item>
+    
+  </channel>
+</rss>

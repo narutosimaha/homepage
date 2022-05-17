@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tour booking on Jax stories</title>
+    <link>https://example.com/tags/tour-booking/</link>
+    <description>Recent content in tour booking on Jax stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/tour-booking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Natour</title>
+      <link>https://example.com/post/natour/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/natour/</guid>
+      <description>1. About The Project This is an application for a tour operator business.
+Some basic features included in this app for customer: booking tour, payment, modifying individual information, displaying specific tour&amp;rsquo; stopovers which is in proximity to user address.
+Some security methods for webapp development is also implemented in this app to prevent some types of attack such as SQL Injection Attack, Cross-Site Scripting (XSS), Denial of Service (DoS), parameter polution, brute force attack, compromised database.</description>
+    </item>
+    
+  </channel>
+</rss>

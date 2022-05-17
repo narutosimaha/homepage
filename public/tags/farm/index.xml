@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>farm on Jax stories</title>
+    <link>https://example.com/tags/farm/</link>
+    <description>Recent content in farm on Jax stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/farm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AEFARM</title>
+      <link>https://example.com/post/aefarm/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/aefarm/</guid>
+      <description>1. About The Project This web have been created to contribute in the agriculture sector a more automatic way of managing devices remotely by using IOT technologiy concepts.
+Some basic features included in this website for customer: login, add/edit/remove devices of their farm, see statistics, automatic control device .
+What I intergrate in this project?
+ Adafruit api to connect with gateway IOT which communicate with various of sensors (through pub/sub protocol) used to serve particular customer demands.</description>
+    </item>
+    
+  </channel>
+</rss>

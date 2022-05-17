@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zones on Jax stories</title>
+    <link>https://example.com/zone/</link>
+    <description>Recent content in Zones on Jax stories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/zone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Become VNG Tech Fresher</title>
+      <link>https://example.com/zone/2/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/zone/2/</guid>
+      <description>Become ZaloPay Tech Fresher As a third year student, I have to intern at specific tech company. And I chose VNG to start my first career.</description>
+    </item>
+    
+    <item>
+      <title>Scholarship</title>
+      <link>https://example.com/zone/3/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/zone/3/</guid>
+      <description>My first scholarship At my first period of being a student. I crave so much this scholarchip and finally I can get it.</description>
+    </item>
+    
+    <item>
+      <title>Pass in university</title>
+      <link>https://example.com/zone/1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/zone/1/</guid>
+      <description>I pass in my desired university I have been learning so hard to be able to pass the university entrance exam and learn at Ho Chi Minh city of Technology University.</description>
+    </item>
+    
+  </channel>
+</rss>
